@@ -1,3 +1,3 @@
-# hello-world
+# HelloWorld
 ## This is a markdown file
 
